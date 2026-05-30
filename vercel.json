@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.160.1"
+    }
+  },
+  "installCommand": "npm install",
+  "buildCommand":
+  "find ./node_modules/sass-embedded-linux-x64 -name \"dart-sass-embedded\" && ls -R ./node_modules/sass-embedded-linux-x64"
+}
