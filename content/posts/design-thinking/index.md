@@ -6,7 +6,7 @@ draft: false
 
 By Prof. Joseph Chan
 
-## General advice for maximizing InboX value
+## Advice for maximizing InboX value
 
 - Reach out for resources proactively: Work space, personnel, industry connection
 - Be open-minded about
@@ -20,4 +20,12 @@ By Prof. Joseph Chan
 
 
 ## Two diamond diagram for design
-<center><img src="pics/double-diamond-design.webp" width="60%" /></center>
+<center><img src="pics/double-diamond-design.jpeg" width="60%" /></center>
+
+## Pitch Deck Structure
+
+A sample is like this:
+
+<center><img src="pics/pitch-deck-sample.jpg" width="60%" /></center>
+
+What to show: The most valuable and not-common-sense part.
