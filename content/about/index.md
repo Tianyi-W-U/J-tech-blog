@@ -1,1 +1,1 @@
-交叉小径上行走所见。
+Hi! Here is my notes about the 10th InnoX Camp 2026.
