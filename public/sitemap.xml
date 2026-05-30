@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hugo-tianyi-blog.vercel.app/</loc>
-    <lastmod>2026-05-30T14:16:42+08:00</lastmod>
+    <lastmod>2026-05-30T14:48:09+08:00</lastmod>
+  </url><url>
+    <loc>https://hugo-tianyi-blog.vercel.app/posts/</loc>
+    <lastmod>2026-05-30T14:48:09+08:00</lastmod>
+  </url><url>
+    <loc>https://hugo-tianyi-blog.vercel.app/posts/sources/</loc>
+    <lastmod>2026-05-30T14:48:09+08:00</lastmod>
+  </url><url>
+    <loc>https://hugo-tianyi-blog.vercel.app/posts/design-thinking/</loc>
+    <lastmod>2026-05-30T14:48:09+08:00</lastmod>
   </url><url>
     <loc>https://hugo-tianyi-blog.vercel.app/about/</loc>
     <lastmod>2026-05-30T14:16:42+08:00</lastmod>
   </url><url>
     <loc>https://hugo-tianyi-blog.vercel.app/categories/</loc>
-  </url><url>
-    <loc>https://hugo-tianyi-blog.vercel.app/posts/</loc>
   </url><url>
     <loc>https://hugo-tianyi-blog.vercel.app/tags/</loc>
   </url>

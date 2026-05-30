@@ -5,6 +5,49 @@
     <link>https://hugo-tianyi-blog.vercel.app/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://hugo-tianyi-blog.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Sat, 30 May 2026 14:18:30 +0800</lastBuildDate><atom:link href="https://hugo-tianyi-blog.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sources</title>
+      <link>https://hugo-tianyi-blog.vercel.app/posts/sources/</link>
+      <pubDate>Sat, 30 May 2026 14:18:30 +0800</pubDate>
+      
+      <guid>https://hugo-tianyi-blog.vercel.app/posts/sources/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;CSDI (Common Spatial Data Infrastructure): &lt;a href=&#34;https://portal.csdi.gov.hk/csdi-webpage/&#34;&gt;https://portal.csdi.gov.hk/csdi-webpage/&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;information infrastructure to share spatial data of Hong Kong, supporting various smart city applications&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design Thinking</title>
+      <link>https://hugo-tianyi-blog.vercel.app/posts/design-thinking/</link>
+      <pubDate>Sat, 30 May 2026 14:15:57 +0800</pubDate>
+      
+      <guid>https://hugo-tianyi-blog.vercel.app/posts/design-thinking/</guid>
+      <description>&lt;p&gt;By Prof. Joseph Chan&lt;/p&gt;
+&lt;h2 id=&#34;general-advice-for-maximizing-inbox-value&#34;&gt;General advice for maximizing InboX value&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reach out for resources proactively: Work space, personnel, industry connection&lt;/li&gt;
+&lt;li&gt;Be open-minded about
+&lt;ul&gt;
+&lt;li&gt;Project topic: Embrace changes from time to time&lt;/li&gt;
+&lt;li&gt;Team members: No competition in the camp. 7/10 entered the science park incumbation programme. Goal is to develop a incumbation-ready level.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Think about product value - to customers, to investors&lt;/li&gt;
+&lt;li&gt;Prototype quickly and &lt;strong&gt;iteratively&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Empathy: Understand what customers &lt;strong&gt;real&lt;/strong&gt; need
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Positive&lt;/strong&gt; need prompts consumption more than negative need. e.g., swimming&lt;/li&gt;
+&lt;li&gt;Product &lt;strong&gt;hits&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;two-diamond-diagram-for-design&#34;&gt;Two diamond diagram for design&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
