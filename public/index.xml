@@ -2,71 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://hugo-tianyi-blog.vercel.app/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    <lastBuildDate>Sun, 05 Oct 2025 17:10:24 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Useful Zotero Shortcuts</title>
-      <link>http://localhost:1313/posts/useful-zotero-shortcuts/</link>
-      <pubDate>Sun, 05 Oct 2025 17:10:24 +0800</pubDate>
-      
-      <guid>http://localhost:1313/posts/useful-zotero-shortcuts/</guid>
-      <description>&lt;p&gt;自用笔记存档，Zotero快捷键真是一会儿不用又要重查……以下默认mac系统。&lt;/p&gt;
-&lt;h3 id=&#34;显示&#34;&gt;显示&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;shift&lt;/code&gt; + &lt;code&gt;+&lt;/code&gt;: 展开所有条目&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;复制单条reference信息&#34;&gt;复制单条reference信息&lt;/h3&gt;
-&lt;p&gt;选中该条目之后，&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;shift&lt;/code&gt; + &lt;code&gt;A&lt;/code&gt;: 复制citation信息。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;cmd&lt;/code&gt; + &lt;code&gt;shift&lt;/code&gt; + &lt;code&gt;C&lt;/code&gt;: 复制bibliography信息&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>纽约：要紧事是找到一个能让我留在纽约的学/工</title>
-      <link>http://localhost:1313/posts/ny-trip/</link>
-      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/ny-trip/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;爱上伯克利需要两个月，爱上纽约只需要两小时。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;太喜欢纽约了，到纽约第一天我给朋友发信息：爱上伯克利需要两个月，爱上纽约只需要两小时。城市气质确实是很玄幻的东西，到达当日早上我从JFK乘airtrain转巴士上岛，下车，转过几个拐角，在一家路边的咖啡店买咖啡，就是感觉很自在……当然也可能是因为城市运作的逻辑都相似，但同样是城市，波士顿就没有给我这种感觉，可能还是非常喜欢大都会类型的城市，比如上海、香港、和纽约。&lt;!-- raw HTML omitted --&gt;
-我旅行的偏好是不爱去纯观景的景点，喜欢文化活动胜过自然景观。宗旨是把自己扔到另一个城市生活几天。以及这次春假携一些待办出行还开了两次会，所以行程并不满。但也挺好的因为我体力和精力并不强，真的从早玩到晚会累死……而且坐交通工具的时间空着也是空着，读文献怎么不是读书（。）&lt;!-- raw HTML omitted --&gt;
-这次一如既往地基本没做任何计划，来的时候只想到要去看几场剧，去中央公园看纪念李文亮的长椅，去一下石墙，连the MET都没搜。体感是这种玩法比较适合去处比较多、想去的地方不需要提前预约、通勤方便的城市，以及要没那么在意能不能买到演出最好的座位，也没有非看不可的演出。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;精神食粮&#34;&gt;精神食粮&lt;/h2&gt;
-&lt;h3 id=&#34;百老汇&#34;&gt;百老汇&lt;/h3&gt;
-&lt;p&gt;在纽约四天差点进了四次剧院，但最后那天没抢到Liberation的rush也没那么想看Moby Dick，加上最后一天逛完MET再差不多走了对角线看完电影后想在石墙停留一会儿而不是赶场，于是作罢，最后看了三场音乐剧。&lt;!-- raw HTML omitted --&gt;
-Hamilton有城市和情怀加成自然是不差，周末的午场人满为患，但群舞实在是不齐；Cabaret嘛……文戏是好的（我没想到能在音乐剧看到这种类话剧的文戏），唱/演的也是好的，但是感官刺激部分不是我的菜，而最后的收束只能说我觉得需要加trigger warning，美国观众在那笑，我一边想the Wall一边毛骨悚然，感觉管杀不管埋，出剧场发现周边卖life is beautiful，结合剧情最后的走向我真的很疑惑到底谁会买……；外宽的the Jonathan Larson Project属于本来备选池子中的一个，起因是之前看Tick Tick Boom很好奇Larson的创作，正好也打算去东村逛vintage和旧书店所以去票房问票，结果是剧场体验最好的一场，来之前被网上评论打过其类似gala的预防针，但实际上还是演了一点情节出来，且氛围很好，观众非常投入于演出。我果然还是非常非常地喜欢小剧场，以及小剧场中人与人之间更亲密的关系。&lt;!-- raw HTML omitted --&gt;
-感觉纽约看剧对预算最友好的选项是抽rush结合没抽到的话演出开场前两三个小时去box office买，因为开演前卖不完可能会有折扣，即使没有折扣，在票房买票不需要手续费。但一票难求的场不适用（除了Hamilton这种座满会卖站票的）。我靠后者买到了69的楼座三排Cabaret和22的中场the Jonathan Larson Project，可以说是非常划算了！但周六晚去问Liberation的时候它没剩多少票就没有打折，只有最低110的原价，犹豫了一下最后没看。后面几天要么是九点根本没起来，要么是起来了没抢到online rush，遗憾自然是有的，但剧如烟海，想看而又没看/看不到的也不止这一部（我还错过了met的魔笛……），如果学不会放下只能郁结至死。&lt;/p&gt;
-&lt;h3 id=&#34;the-met&#34;&gt;The MET&lt;/h3&gt;
-&lt;p&gt;大都会值得单独一节。拿到地图就知道一天是怎么也看不完的，于是从二楼的欧洲绘画开始看. 感觉大都会馆藏的经典aka看到能认出来的画不很多，但可能也正因如此展陈非常有意思。印象最深的一个展厅讲女性画家画女性画家，放了各时期女性的绘画，有一幅十八世纪的旁边的说明文字说当时女性被认为更适合画静物和风景，历史画是男性擅长的领域——但这幅画中一位女性正在作画，而画布上是未完的历史画。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;书店&#34;&gt;书店&lt;/h3&gt;
-&lt;p&gt;有一天没想好第二天要做什么，于是上网搜独立书店，发现东村有几家，一看地图正好之前mark的the Jonathan Larson Project的剧院也在那里，于是愉快地决定把下午用来逛书店和看剧。&lt;!-- raw HTML omitted --&gt;
-最好逛的是East Village Books，一家二手书店，哲学、社科和学术书籍多，排布也合理。伊应该是会不定时特价一部分书，五刀购入Race and Digital Media和The Trouble with Normal之后我只想在纽约生活……&lt;!-- raw HTML omitted --&gt;
-另外逛书店带给我了一个很好的领悟：我不是不爱读书了，我只是把我的爱好高度结合到了我的研究兴趣呀！（什）第一次去序言时还会看哲学书架的我，现在进书店直奔政治、社会学、和性别研究……&lt;/p&gt;
-&lt;h3 id=&#34;电影&#34;&gt;电影&lt;/h3&gt;
-&lt;p&gt;在film forum看了娄烨师傅的《一部未完成的电影》。江诚一出场我缓缓思考：师傅这是秦昊吧……但直到最后制作信息出来前完全被这部伪纪录片骗到。时至今日，回望疫情三年，我依然有很多问题，这也远不是解答，但还是很感谢娄烨拍了它。&lt;/p&gt;
-&lt;h2 id=&#34;物质食粮&#34;&gt;物质食粮&lt;/h2&gt;
-&lt;h3 id=&#34;吃喝&#34;&gt;吃喝&lt;/h3&gt;
-&lt;p&gt;作为一个烘焙和咖啡爱好者，正餐可以随便吃，但面包和咖啡是要挑一下的。这次没有想来特地找咖啡喝，只是要找点咖啡因，所以标准是能喝就行（此处能喝指一般好喝。连锁参考尺：瑞幸和Starbucks拿铁勉强能喝，fein和coffee academics能喝，蓝瓶好喝）。不过运气非常好，除了第一次买的冰拿铁一般，第二次就发现住处旁边的咖啡馆可颂非常好吃，咖啡也还不错，所以后几天也没换地方。我猜如果是周末，选择人比较多的咖啡馆（非高峰期感觉不是很适用），特别好喝不一定，但应该不会踩雷。&lt;!-- raw HTML omitted --&gt;
-副作用是我现在在伯克利买六刀以上的咖啡如果不好喝会生气。&lt;!-- raw HTML omitted --&gt;
-餐厅也好吃。这次正餐大概吃了三四次，除了一家三十几刀，其他基本在20刀以下，没有一家觉得味道一般的。纽约人真会吃啊！第一家韩餐吃小菜的时候我心想这可比伯克利好吃太多……但我在伯克利也基本不花30+吃饭，所以可比性不高。另外就是吃了几次纽约著名的one dollar pizza，说是one dollar，其实如果有加料也要3-4刀，但披萨一片很大，所以随便一吃还是很合适的快餐选择。&lt;!-- raw HTML omitted --&gt;
-本来想说披萨很难做得不好吃，但写这篇当日我不想做饭吃了一次silver，好难吃啊怎么一小块还收我4刀多！&lt;!-- raw HTML omitted --&gt;
-不过此行吃到的最好吃的以slice卖的披萨还是之后在波士顿的China Town吃到的，店名是Boston Kitchen Pizza，如果去波士顿旅游住在downtown的话很推荐不想吃正经饭的时候去尝一下。另外在纽约西村从film forum走到Stonewall路上随便进的一家也好吃，但没记店名……&lt;!-- raw HTML omitted --&gt;
-在纽约四天多几乎没有吃到过觉得难吃的东西，纽约人品味太好了，或者是我运气太好了。&lt;/p&gt;
-&lt;h2 id=&#34;其他交通&#34;&gt;其他：交通&lt;/h2&gt;
-&lt;p&gt;纽约公共交通收费是一律2.9USD，公交转乘不另收钱，地铁转公交也不收，直接拿卡刷7天封顶34刀，旅游的话直接用卡付款是最方便且最便宜的。地铁24/7运行，晚上八点前都非常方便，且人很多感觉非常安全，但深夜班次减少后等车时间增加，稍有不便。&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;写在最后&#34;&gt;写在最后&lt;/h2&gt;
-&lt;p&gt;题为“要紧事是找到一个能让我留在纽约的学/工”，只因这个想法在纽约之行中出现太多次，虽然是半夸张的玩笑话，但想再找个机会在纽约住一段时间是真的。如果直接问我为什么，总觉得怎么答都不够完整，但这次旅行的很多时刻确实会被我珍藏：电影散场时和素不相识的其他观众一起鼓掌，在中央公园坐着的时候有风吹过，在旧书店的后院里一层一层找书。我想这并不是独属于旅行的体验，因而非常期待且积极寻觅着再一次生活在纽约的机会。&lt;/p&gt;
-</description>
-    </item>
-    
+    <language>zh</language><atom:link href="https://hugo-tianyi-blog.vercel.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
