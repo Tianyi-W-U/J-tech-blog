@@ -2,22 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://j-tech-blog.vercel.app/</loc>
     <lastmod>2026-05-30T14:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://j-tech-blog.vercel.app/posts/</loc>
     <lastmod>2026-05-30T14:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sources/</loc>
+    <loc>https://j-tech-blog.vercel.app/posts/sources/</loc>
     <lastmod>2026-05-30T14:18:30+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/design-thinking/</loc>
+    <loc>https://j-tech-blog.vercel.app/posts/design-thinking/</loc>
     <lastmod>2026-05-30T14:15:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://j-tech-blog.vercel.app/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://j-tech-blog.vercel.app/contact/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://j-tech-blog.vercel.app/about/</loc>
+  </url><url>
+    <loc>https://j-tech-blog.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://j-tech-blog.vercel.app/series/</loc>
+  </url><url>
+    <loc>https://j-tech-blog.vercel.app/tags/</loc>
   </url>
 </urlset>

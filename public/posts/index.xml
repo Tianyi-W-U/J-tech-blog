@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Walking cross the paths</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://j-tech-blog.vercel.app/posts/</link>
     <description>Recent content in Posts on Walking cross the paths</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2026, J.W.</copyright>
     <lastBuildDate>Sat, 30 May 2026 14:18:30 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://j-tech-blog.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sources</title>
-      <link>http://localhost:1313/posts/sources/</link>
+      <link>https://j-tech-blog.vercel.app/posts/sources/</link>
       <pubDate>Sat, 30 May 2026 14:18:30 +0800</pubDate>
-      <guid>http://localhost:1313/posts/sources/</guid>
+      <guid>https://j-tech-blog.vercel.app/posts/sources/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;CSDI (Common Spatial Data Infrastructure): &lt;a href=&#34;https://portal.csdi.gov.hk/csdi-webpage/&#34;&gt;https://portal.csdi.gov.hk/csdi-webpage/&lt;/a&gt;&lt;br&gt;information infrastructure to share spatial data of Hong Kong, supporting various smart city applications&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Design Thinking</title>
-      <link>http://localhost:1313/posts/design-thinking/</link>
+      <link>https://j-tech-blog.vercel.app/posts/design-thinking/</link>
       <pubDate>Sat, 30 May 2026 14:15:57 +0800</pubDate>
-      <guid>http://localhost:1313/posts/design-thinking/</guid>
+      <guid>https://j-tech-blog.vercel.app/posts/design-thinking/</guid>
       <description>&lt;p&gt;By Prof. Joseph Chan&lt;/p&gt;&#xA;&lt;h2 id=&#34;advice-for-maximizing-inbox-value&#34;&gt;Advice for maximizing InboX value&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reach out for resources proactively: Work space, personnel, industry connection&lt;/li&gt;&#xA;&lt;li&gt;Be open-minded about&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Project topic: Embrace changes from time to time&lt;/li&gt;&#xA;&lt;li&gt;Team members: No competition in the camp. 7/10 entered the science park incumbation programme. Goal is to develop a incumbation-ready level.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Think about product value - to customers, to investors&lt;/li&gt;&#xA;&lt;li&gt;Prototype quickly and &lt;strong&gt;iteratively&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;Empathy: Understand what customers &lt;strong&gt;real&lt;/strong&gt; need&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Positive&lt;/strong&gt; need prompts consumption more than negative need. e.g., swimming&lt;/li&gt;&#xA;&lt;li&gt;Product &lt;strong&gt;hits&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Think about what is your core tech.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;two-diamond-diagram-for-design&#34;&gt;Two diamond diagram for design&lt;/h2&gt;&#xA;&lt;center&gt;&lt;img src=&#34;pics/double-diamond-design.jpeg&#34; width=&#34;60%&#34; /&gt;&lt;/center&gt;&#xA;&lt;h2 id=&#34;pitch-deck-structure&#34;&gt;Pitch Deck Structure&lt;/h2&gt;&#xA;&lt;p&gt;A sample is like this:&lt;/p&gt;</description>
     </item>
   </channel>
