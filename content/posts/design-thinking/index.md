@@ -17,6 +17,7 @@ By Prof. Joseph Chan
 - Empathy: Understand what customers **real** need
   - **Positive** need prompts consumption more than negative need. e.g., swimming
   - Product **hits**
+- Think about what is your core tech. 
 
 
 ## Two diamond diagram for design
@@ -28,4 +29,17 @@ A sample is like this:
 
 <center><img src="pics/pitch-deck-sample.jpg" width="60%" /></center>
 
-What to show: The most valuable and not-common-sense part.
+- What to show: The most valuable and not-common-sense part.
+- Tech-related R&D: Core tech yourself, helpful to use market-ready components to help
+
+## Design thinking
+
+- Understand the stakeholders: From X, know Y!
+  - Mapping -> Overview
+  - Observations -> Outlook
+    - *Talk to real people* is important!!
+  - Persona -> Profile
+  - Empathy Map -> Deeper in their thinking
+  - Journey Map -> Details of a certain activity
+    - What the user do, feel, think in a process
+- The Ys -> **Identify pain point**
