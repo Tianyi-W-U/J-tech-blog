@@ -16,9 +16,7 @@ theme = "paper"
 
 [params]
   color = 'linen'
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+  github = 'Tianyi-W-U'
 
 avatar = 'jessietywu@gmail.com'
   name = 'Jessie Wu'
