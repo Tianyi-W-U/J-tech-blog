@@ -14,4 +14,4 @@ draft: false
     4. Design collaboratively
     5. Design for **simplicity**
 3. Community Assets Map: Financial capital, cultural capital, social capital, etc.
-4. 
+4. Map the assets and problems/opportunities
