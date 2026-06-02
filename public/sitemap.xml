@@ -2,30 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://j-tech-blog.vercel.app/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-02T16:16:13+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-02T16:16:13+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/user-research-i/</loc>
+    <lastmod>2026-06-02T16:16:13+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/guest-tarran/</loc>
+    <lastmod>2026-06-02T14:35:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/assets-mapping/</loc>
+    <lastmod>2026-06-02T10:17:48+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sources/</loc>
     <lastmod>2026-05-30T14:18:30+08:00</lastmod>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/posts/</loc>
-    <lastmod>2026-05-30T14:18:30+08:00</lastmod>
-  </url><url>
-    <loc>https://j-tech-blog.vercel.app/posts/sources/</loc>
-    <lastmod>2026-05-30T14:18:30+08:00</lastmod>
-  </url><url>
-    <loc>https://j-tech-blog.vercel.app/posts/design-thinking/</loc>
+    <loc>http://localhost:1313/posts/design-thinking-i/</loc>
     <lastmod>2026-05-30T14:15:57+08:00</lastmod>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://j-tech-blog.vercel.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
