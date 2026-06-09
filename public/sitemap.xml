@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-02T16:16:13+08:00</lastmod>
+    <lastmod>2026-06-09T12:20:51+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ideation/</loc>
+    <lastmod>2026-06-09T12:20:51+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-02T16:16:13+08:00</lastmod>
+    <lastmod>2026-06-09T12:20:51+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/product-architecture/</loc>
+    <lastmod>2026-06-09T10:54:15+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/value-proposition/</loc>
+    <lastmod>2026-06-08T10:20:55+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/problem-definition-ii/</loc>
+    <lastmod>2026-06-05T10:36:51+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vibe-coding-design-style/</loc>
+    <lastmod>2026-06-04T21:47:01+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/guest-arex/</loc>
+    <lastmod>2026-06-03T14:34:06+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/problem-definition/</loc>
+    <lastmod>2026-06-03T12:31:21+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/user-research-i/</loc>
     <lastmod>2026-06-02T16:16:13+08:00</lastmod>

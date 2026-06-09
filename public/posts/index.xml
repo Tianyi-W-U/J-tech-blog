@@ -7,14 +7,63 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2026, J.W.</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 16:16:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 12:20:51 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ideation: Use Kano model</title>
+      <link>http://localhost:1313/posts/ideation/</link>
+      <pubDate>Tue, 09 Jun 2026 12:20:51 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ideation/</guid>
+      <description>&lt;p&gt;Speaker: Winnie Leung&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Go wild. Think out of the box.&lt;/li&gt;&#xA;&lt;li&gt;Goal: have many ideas to &lt;strong&gt;solve the problem&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Measure qualitative outcome&lt;/li&gt;&#xA;&lt;li&gt;Aim for good enough, not perfect.&lt;/li&gt;&#xA;&lt;li&gt;Create value for &lt;strong&gt;customers&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kano-model&#34;&gt;Kano Model&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Goals: Organize expressed and non-expressed customer needs&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Categories&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dissatisfiers (expected quality, must-have)&lt;/li&gt;&#xA;&lt;li&gt;satisfiers (Normal quality)&lt;/li&gt;&#xA;&lt;li&gt;delighters (exciting quality, wows)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;[illustration graph]&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Use user research data to support your categorization!&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Product Architecture</title>
+      <link>http://localhost:1313/posts/product-architecture/</link>
+      <pubDate>Tue, 09 Jun 2026 10:54:15 +0800</pubDate>
+      <guid>http://localhost:1313/posts/product-architecture/</guid>
+      <description>&lt;p&gt;My take-away:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Highlight innovative function in design&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;image.png&#34; alt=&#34;Product Architecture slide1&#34;&gt;&#xA;&lt;img src=&#34;image-1.png&#34; alt=&#34;Product Architecture slide2&#34;&gt;&#xA;&lt;img src=&#34;image-2.png&#34; alt=&#34;Product Architecture slide3&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Value Proposition</title>
+      <link>http://localhost:1313/posts/value-proposition/</link>
+      <pubDate>Mon, 08 Jun 2026 10:20:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/value-proposition/</guid>
+      <description>&lt;h3 id=&#34;value-proposition-elements&#34;&gt;Value Proposition elements&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Who your product/service is for&lt;/li&gt;&#xA;&lt;li&gt;What benefits&lt;/li&gt;&#xA;&lt;li&gt;Why not competitors&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;value-proposition-canvas&#34;&gt;Value Proposition Canvas&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Customer: Job, Pain, Gain&lt;/li&gt;&#xA;&lt;li&gt;Product: Products and services, Pain relievers, Gain creators&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Problem Definition II</title>
+      <link>http://localhost:1313/posts/problem-definition-ii/</link>
+      <pubDate>Fri, 05 Jun 2026 10:36:51 +0800</pubDate>
+      <guid>http://localhost:1313/posts/problem-definition-ii/</guid>
+      <description>&lt;h2 id=&#34;finding-the-right-problem&#34;&gt;Finding the right problem&lt;/h2&gt;&#xA;&lt;p&gt;[insert slides later]&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-probes&#34;&gt;Design Probes&lt;/h2&gt;&#xA;&lt;p&gt;Better uncovering people&amp;rsquo;s action than their opnion&lt;/p&gt;&#xA;&lt;p&gt;Types can be:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Logging material&lt;/li&gt;&#xA;&lt;li&gt;Cameras&lt;/li&gt;&#xA;&lt;li&gt;Prototypes&#xA;e.g.,&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;to-go probe kits&lt;/li&gt;&#xA;&lt;li&gt;low-fidelity prototypes&#xA;&lt;ul&gt;&#xA;&lt;li&gt;testing the problem space (how people will use it, more UX?), not a solution&lt;/li&gt;&#xA;&lt;li&gt;e.g., test the size of product, e.g., a phone&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Role play when you are designing a service&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will find, say, if the size is too small or too big, will the user use it intuitively&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;what-to-look-for&#34;&gt;What to look for?&lt;/h3&gt;&#xA;&lt;p&gt;Anything weird or intersting!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vibe Coding Design Style</title>
+      <link>http://localhost:1313/posts/vibe-coding-design-style/</link>
+      <pubDate>Thu, 04 Jun 2026 21:47:01 +0800</pubDate>
+      <guid>http://localhost:1313/posts/vibe-coding-design-style/</guid>
+      <description>&lt;p&gt;Source (in Chinese): &lt;a href=&#34;https://www.bilibili.com/video/BV1EpdoBFE3Z&#34;&gt;https://www.bilibili.com/video/BV1EpdoBFE3Z&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Summary:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Colour&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Muted palette 柔和颜色&lt;/li&gt;&#xA;&lt;li&gt;Monochromatic 单一颜色的&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Layout&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Card based design with layered elements 有纵深的卡片式设计&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;General style&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Neo-minimalism&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Design philosophy&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Approachable sohistication&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Guest Arex</title>
+      <link>http://localhost:1313/posts/guest-arex/</link>
+      <pubDate>Wed, 03 Jun 2026 14:34:06 +0800</pubDate>
+      <guid>http://localhost:1313/posts/guest-arex/</guid>
+      <description>&lt;h2 id=&#34;ceo外包不了的三件事&#34;&gt;CEO外包不了的三件事&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;找方向&#xA;&lt;ul&gt;&#xA;&lt;li&gt;原型机/概念图在用户研究时重要&lt;/li&gt;&#xA;&lt;li&gt;测渠道（线上/线下），用户兴趣度（email转化率）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;找人&#xA;&lt;ul&gt;&#xA;&lt;li&gt;团队基因对齐&lt;/li&gt;&#xA;&lt;li&gt;广结善缘&lt;/li&gt;&#xA;&lt;li&gt;抓住一切机会&lt;/li&gt;&#xA;&lt;li&gt;庆祝正反馈，复盘负反馈&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;找钱（融资）&#xA;&lt;ol&gt;&#xA;&lt;li&gt;筛选融资机构&lt;/li&gt;&#xA;&lt;li&gt;先见less fit，从负反馈中迭代&lt;/li&gt;&#xA;&lt;li&gt;迭代得差不多之后pitch more fit&lt;/li&gt;&#xA;&lt;li&gt;融资过程：投资人（无决策权）- 合伙人 - 投资意向书 - 合同（需要法务，SPA和SHA） - 打钱（结束）&#xA;&lt;ul&gt;&#xA;&lt;li&gt;融资是体力活，融资当面试&lt;/li&gt;&#xA;&lt;li&gt;不要把过程当结果（钱入账前都不算）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;一些建议&#34;&gt;一些建议&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;拒绝伪需求，识别真需求（投流etc）&lt;/li&gt;&#xA;&lt;li&gt;用户-研发-产品循环。不要等到完美产品再问用户&lt;/li&gt;&#xA;&lt;li&gt;多向前辈请教&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Problem Definition</title>
+      <link>http://localhost:1313/posts/problem-definition/</link>
+      <pubDate>Wed, 03 Jun 2026 12:31:21 +0800</pubDate>
+      <guid>http://localhost:1313/posts/problem-definition/</guid>
+      <description>&lt;center&gt;&lt;img src=&#34;pics/image.png&#34; width=&#34;60%&#34; /&gt;&lt;/center&gt;&#xA;Back up with user research data.&#xA;&lt;center&gt;&lt;img src=&#34;pics/image1.png&#34; width=&#34;60%&#34; /&gt;&lt;/center&gt;</description>
+    </item>
     <item>
       <title>User Research I</title>
       <link>http://localhost:1313/posts/user-research-i/</link>
       <pubDate>Tue, 02 Jun 2026 16:16:13 +0800</pubDate>
       <guid>http://localhost:1313/posts/user-research-i/</guid>
-      <description>&lt;p&gt;Speaker: Bryan Guo&lt;/p&gt;&#xA;&lt;h2 id=&#34;user-research-is-important&#34;&gt;User research is important!&lt;/h2&gt;&#xA;&lt;p&gt;The top 1 reason why start-ups fail is no market need.&lt;/p&gt;&#xA;&lt;center&gt;&lt;img src=&#34;pics/the-top-20-reasons-startup-fail.png&#34; width=&#34;60%&#34; /&gt;&lt;/center&gt;&#xA;&lt;h2 id=&#34;advices&#34;&gt;Advices&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Talk to real users in the market&lt;/strong&gt; to test your assumption about their need.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Speaker: Bryan Guo&lt;/p&gt;&#xA;&lt;h2 id=&#34;user-research-is-important&#34;&gt;User research is important!&lt;/h2&gt;&#xA;&lt;p&gt;The top 1 reason why start-ups fail is no market need.&lt;/p&gt;&#xA;&lt;center&gt;&lt;img src=&#34;pics/the-top-20-reasons-startup-fail.png&#34; width=&#34;60%&#34; /&gt;&lt;/center&gt;&#xA;&lt;h2 id=&#34;advices&#34;&gt;Advices&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Talk to real users in the market&lt;/strong&gt; to test your assumption about their need.&lt;br&gt;&#xA;How?&lt;br&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Qualitative - know why: 1-on-1 interview, focus group, etc.&lt;/li&gt;&#xA;&lt;li&gt;Quantitative - test your hypothesis:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;user-research-method&#34;&gt;User research method&lt;/h2&gt;&#xA;&lt;center&gt;&lt;img src=&#34;pics/image.png&#34; width=&#34;80%&#34; /&gt;&lt;/center&gt;&#xA;Usability Testing: Early feedback on product design (after prototype comes out)&#xA;A/B Testing: Select the best concept. Test the conversion rate 转化率</description>
     </item>
     <item>
       <title>Guest Tarran</title>
